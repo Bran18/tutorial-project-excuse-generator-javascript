@@ -2,10 +2,11 @@ let intro=[
 "Sorry I'm late, but",
 "Sorry I forgot your birthday,but",
 "I couldn't come to your wedding,",
-"You won't beleive this:",
+"You won't ever beleive this:",
 "This sounds crazy, but",
 "This sounds unbeleivable but",
 "Holy shit!",
+"I know its not the firts time, but",
 "Oh man, "
 
 ]
@@ -13,15 +14,16 @@ let intro=[
 let who = [
 "the lord of darkness",
 "Godzilla",
-"the human centipede",
+"the human Peter Sundae",
 "a tiny lizard",
 "the first page of Twilight",
-"the inventor of the slanket",
+"the inventor of the pirate bay",
 "the director of 101 dalmations",
-"the little kid from Indiana Jones",
-"a man with six fingers on his hand",
-"Mayor McCheese",
-"Red Foreman",
+"the little poor kid from Indiana Jones",
+"a weird man with six fingers on his hand",
+"Mayor Julian Assange",
+"Ellon Musk",
+"Voldemort",
 "Scrooge McDuck",
 "the Ghostbusters",
 "Diablo, the god of death",
@@ -30,12 +32,12 @@ let who = [
 "Dobby the elf",
 "Sherlock Holmes",
 "my speakers",
-"Chtulu",
+"Darth Vader",
 "a homeless guy",
 "a frag grenade",
 "a lady with a spandex watch",
 "a toothpick",
-"the creators of southpark"
+"the creators of apple"
 ]
 
 let action=[
